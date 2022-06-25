@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a675eb24.css",
+    "main.js": "/static/js/main.faafd046.js",
+    "static/js/787.c604ebca.chunk.js": "/static/js/787.c604ebca.chunk.js",
+    "static/media/SVT_120619_5417-scaled.jpg": "/static/media/SVT_120619_5417-scaled.b309d450109810b774dc.jpg",
+    "static/media/istockphoto-174812956-612x612.jpg": "/static/media/istockphoto-174812956-612x612.d2db6ef2e49167a99af5.jpg",
+    "static/media/9oz-spicy-bbq-400x400.jpg": "/static/media/9oz-spicy-bbq-400x400.3c46a211cb49d0135167.jpg",
+    "static/media/orig-pickled-aspar.jpg": "/static/media/orig-pickled-aspar.92974f26abe0ea049b12.jpg",
+    "static/media/istockphoto-682595592-612x612.jpg": "/static/media/istockphoto-682595592-612x612.c8e6c66345902babf4bf.jpg",
+    "static/media/BN91287.webp": "/static/media/BN91287.3556c5d31d2a7651af02.webp",
+    "static/media/TEV25-3.webp": "/static/media/TEV25-3.462bfacd02e418c5a529.webp",
+    "index.html": "/index.html",
+    "main.a675eb24.css.map": "/static/css/main.a675eb24.css.map",
+    "main.faafd046.js.map": "/static/js/main.faafd046.js.map",
+    "787.c604ebca.chunk.js.map": "/static/js/787.c604ebca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a675eb24.css",
+    "static/js/main.faafd046.js"
+  ]
+}
